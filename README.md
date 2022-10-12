@@ -1,4 +1,4 @@
-# patikaMergeSort
+# Merge Sort
 www.patika.dev
 
 Proje 2
